@@ -125,7 +125,7 @@ switch (luckyNumber) { //I learned about Switch statements from https://www.w3sc
 console.log(luckyResult);
 // 17 -- Rewrite question 12 with a `ternary` operator. You'll need to do research!
 //adventurous = false;
-result = (adventurous ? 'Adventures are great!' : 'How about we stay home?');
+result = (adventurous ? 'Adventures are great!' : 'How about we stay home?'); // I learned about this operator from the resource Eloquent JavaScript
 console.log(result);
 
 
