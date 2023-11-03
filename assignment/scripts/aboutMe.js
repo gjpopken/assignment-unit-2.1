@@ -107,7 +107,7 @@ console.log('The person with the most pets has', mostPets, 'pets.');
 //      You'll need to research how to use switch statements!
 //      console.log `luckyResult` after the conditional has run.
 let luckyResult;
-luckyNumber = 3;
+//luckyNumber = 2;
 switch (luckyNumber) { //I learned about Switch statements from https://www.w3schools.com/js/js_switch.asp
   case 1:
     luckyResult = 'First is the worst';
